@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:block/warped_fungus_model_1",
+  "textures": {
+    "warped": "minecraft:block/warped_fungus"
+  }
+}

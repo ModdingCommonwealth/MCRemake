@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:item/experience_bottle_model",
+  "textures": {
+    "texture": "minecraft:item/experience_bottle"
+  }
+}

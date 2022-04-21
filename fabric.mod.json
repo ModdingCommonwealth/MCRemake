@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mcremake",
+  "version": "0.0.3",
+  "name": "MCRemake",
+  "description": "§bMinecraft is life",
+  "authors": [
+    "§aSpasmanizer"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "§cAll Rights Reserved",
+  "icon": "pack.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcremake.McremakeMod"
+    ],
+    "client": [
+      "net.mcremake.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*"
+  }
+}

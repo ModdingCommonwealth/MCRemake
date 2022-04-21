@@ -1,0 +1,10 @@
+{
+  "parent": "mcremake:block/crafting_table_model",
+  "textures": {
+    "particle": "minecraft:block/oak_planks",
+    "front": "minecraft:block/crafting_table_front",
+    "side": "minecraft:block/crafting_table_side",
+    "top": "minecraft:block/crafting_table_top",
+    "bottom": "minecraft:block/oak_planks"
+  }
+}

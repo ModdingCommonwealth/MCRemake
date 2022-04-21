@@ -1,0 +1,7 @@
+{
+  "parent": "mcremake:block/leaves_model",
+  "textures": {
+    "leaves": "minecraft:block/acacia_leaves",
+	"leaves_2": "minecraft:block/dead_fire_coral_fan"
+  }
+}
