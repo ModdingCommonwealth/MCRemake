@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/lantern_model",
-  "textures": {
-    "lantern": "minecraft:block/lantern"
-  }
-}

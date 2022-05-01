@@ -1,9 +1,0 @@
-{
-  "parent": "mcremake:block/template_campfire_model",
-  "textures": {
-    "particle": "minecraft:block/campfire_log",
-	"log": "minecraft:block/campfire_log",
-	"lit_log": "minecraft:block/campfire_log_lit",
-	"fire": "minecraft:block/campfire_fire"
-  }
-}

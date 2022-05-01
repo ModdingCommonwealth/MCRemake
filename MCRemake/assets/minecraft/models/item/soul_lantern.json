@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/soul_lantern_model",
-  "textures": {
-    "lantern": "minecraft:block/soul_lantern"
-  }
-}

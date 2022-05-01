@@ -1,8 +1,0 @@
-{
-  "parent": "mcremake:block/flower_pot_warped_fungus",
-  "textures": {
-    "plant": "minecraft:block/warped_fungus",
-	"dirt": "minecraft:block/dirt",
-	"flowerpot": "minecraft:block/flower_pot"
-  }
-}

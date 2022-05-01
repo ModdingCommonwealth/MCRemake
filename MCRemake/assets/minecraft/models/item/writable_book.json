@@ -1,7 +1,0 @@
-{
-  "parent": "mcremake:item/writable_book_model",
-  "textures": {
-    "book": "minecraft:entity/enchanting_table_book",
-	"feather": "minecraft:item/feather"
-  }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "mcremake:item/shield_blocking_model",
-    "gui_light": "front",
-    "textures": {
-        "particle": "minecraft:block/dark_oak_planks"
-    }
-}

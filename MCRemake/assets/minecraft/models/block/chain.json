@@ -1,7 +1,0 @@
-{
-    "parent": "mcremake:block/chain_model",
-    "textures": {
-        "particle": "minecraft:block/chain",
-        "texture": "minecraft:block/chain"
-    }
-}

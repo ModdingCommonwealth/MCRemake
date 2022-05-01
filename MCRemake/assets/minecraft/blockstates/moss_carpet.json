@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-			{ "model": "mcremake:block/moss_carpet_model_1" },
-            { "model": "mcremake:block/moss_carpet_model_2" }
-        ]
-    }
-}

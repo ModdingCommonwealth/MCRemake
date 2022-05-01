@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/crimson_fungus_model_1",
-  "textures": {
-    "crimson": "minecraft:block/crimson_fungus"
-  }
-}
