@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:item/glass_bottle_model",
-  "textures": {
-    "texture": "minecraft:item/glass_bottle"
-  }
-}

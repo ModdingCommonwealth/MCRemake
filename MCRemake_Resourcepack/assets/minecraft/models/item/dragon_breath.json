@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:item/dragon_breath_model",
-  "textures": {
-    "texture": "minecraft:item/dragon_breath"
-  }
-}

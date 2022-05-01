@@ -1,7 +1,0 @@
-{
-    "parent": "mcremake:item/potion_model",
-    "textures": {
-        "overlay": "minecraft:item/potion_overlay",
-        "texture": "minecraft:item/potion"
-    }
-}
