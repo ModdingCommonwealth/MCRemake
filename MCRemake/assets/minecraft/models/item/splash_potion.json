@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated_tint",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/splash_potion"
+    }
+}

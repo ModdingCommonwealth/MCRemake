@@ -1,0 +1,9 @@
+{
+  "parent": "mcremake:block/flowering_azalea_model",
+  "textures": {
+    "top": "minecraft:block/flowering_azalea_top",
+	"plant": "minecraft:block/azalea_plant",
+	"flower": "minecraft:block/spore_blossom",
+    "side": "minecraft:block/azalea_side"
+  }
+}

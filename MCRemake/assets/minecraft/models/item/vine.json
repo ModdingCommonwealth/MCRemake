@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated_tint",
+  "textures": {
+    "layer0": "minecraft:block/vine",
+	"layer1": "minecraft:block/vine"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:block/ore/copper_ore_model",
+  "textures": {
+    "texture": "minecraft:block/copper_ore"
+  }
+}

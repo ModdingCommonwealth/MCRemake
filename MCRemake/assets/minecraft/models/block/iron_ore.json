@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:block/ore/iron_ore_model",
+  "textures": {
+    "texture": "minecraft:block/iron_ore"
+  }
+}

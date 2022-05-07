@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:item/book_model",
+  "textures": {
+    "book": "minecraft:entity/enchanting_table_book"
+  }
+}

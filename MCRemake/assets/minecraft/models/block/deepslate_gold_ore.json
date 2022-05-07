@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:block/ore/gold_ore_model",
+  "textures": {
+    "texture": "minecraft:block/deepslate_gold_ore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mcremake:block/ore/redstone_ore_model",
+  "textures": {
+    "texture": "minecraft:block/deepslate_redstone_ore"
+  }
+}

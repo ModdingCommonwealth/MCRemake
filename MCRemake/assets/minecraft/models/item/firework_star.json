@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated_tint",
+    "textures": {
+        "layer0": "item/firework_star",
+        "layer1": "item/firework_star_overlay"
+    }
+}
