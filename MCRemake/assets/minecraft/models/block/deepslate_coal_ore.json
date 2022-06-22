@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/ore/coal_ore_model",
-  "textures": {
-    "texture": "minecraft:block/deepslate_coal_ore"
-  }
-}

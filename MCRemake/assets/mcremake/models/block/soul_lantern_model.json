@@ -243,18 +243,22 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [45, 0, 0],
-			"translation": [0, -1, -1]
+			"rotation": [65, 0, 0],
+			"translation": [0, -3, -2],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [45, 0, 0],
-			"translation": [0, -1, -1]
+			"rotation": [65, 0, 0],
+			"translation": [0, -3, -2],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
-			"translation": [2, 2, 0]
+			"translation": [2, 2, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
-			"translation": [2, 2, 0]
+			"translation": [2, 2, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
 			"translation": [0, 4.25, 0],

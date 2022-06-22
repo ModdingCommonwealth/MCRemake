@@ -1,0 +1,8 @@
+{
+  "parent": "mcremake:item/compass/recovery_compass_17_model",
+  "textures": {
+    "texture_1": "minecraft:block/iron_block",
+	"texture_2": "minecraft:block/black_concrete",
+	"texture_3": "minecraft:block/cyan_concrete_powder"
+  }
+}

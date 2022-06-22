@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated_tint",
-  "textures": {
-    "layer0": "minecraft:block/lily_pad",
-	"layer1": "minecraft:block/lily_pad"
-  }
-}
