@@ -1,8 +1,0 @@
-{
-  "parent": "mcremake:block/flower_pot_crimson_fungus",
-  "textures": {
-    "plant": "minecraft:block/crimson_fungus",
-	"dirt": "minecraft:block/dirt",
-	"flowerpot": "minecraft:block/flower_pot"
-  }
-}

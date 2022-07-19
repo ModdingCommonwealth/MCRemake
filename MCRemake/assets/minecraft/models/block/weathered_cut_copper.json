@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/copper/cut_copper_model",
-  "textures": {
-    "texture": "minecraft:block/weathered_cut_copper"
-  }
-}

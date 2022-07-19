@@ -1,2 +1,2 @@
 # MCRemake
-This resource pack will add volume
+This mod will add volume

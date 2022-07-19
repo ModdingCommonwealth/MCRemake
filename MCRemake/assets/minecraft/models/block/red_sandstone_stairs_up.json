@@ -1,8 +1,0 @@
-{
-  "parent": "mcremake:block/stairs_up",
-  "textures": {
-    "bottom": "minecraft:block/red_sandstone_bottom",
-    "top": "minecraft:block/red_sandstone_top",
-    "side": "minecraft:block/red_sandstone"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "mcremake:block/brown_mushroom_model_1",
-  "textures": {
-    "mushroom": "minecraft:block/brown_mushroom"
-  }
-}
