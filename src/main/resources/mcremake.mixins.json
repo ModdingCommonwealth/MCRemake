@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.Spasmanizer.MCRemake.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "GlassBlock",
+    "LeavesBlock",
+    "MCRemakeMixin",
+    "StainedGlassBlock",
+    "TintedGlassBlock"
+  ],
+  "client": [
+    "MCRemakeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block",
+	"textures": {
+		"0": "block/tinted_glass/37",
+		"2": "block/tinted_glass/39",
+		"4": "block/tinted_glass/11",
+		"6": "block/tinted_glass/12",
+		"7": "block/tinted_glass/36",
+		"particle": "block/tinted_glass/37"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#7", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#6", "cullface": "down"}
+			}
+		}
+	]
+}

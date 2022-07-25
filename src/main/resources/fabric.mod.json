@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "mcremake",
+  "version": "0.0.2",
+
+  "name": "§6MCRemake",
+  "description": "§oThis mod will add volume",
+  "authors": [
+    "§cSpasmanizer"
+  ],
+  "contact": {
+  },
+
+  "license": "§aWTFPL",
+  "icon": "assets/mcremake/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.Spasmanizer.MCRemake.MCRemakeMod"
+    ]
+  },
+  "mixins": [
+    "mcremake.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

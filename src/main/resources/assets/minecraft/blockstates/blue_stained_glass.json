@@ -1,0 +1,836 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_e_w_d_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_e_w_d_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_s_e_w_d_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_w_d_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_e_s_w_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_e_s_d_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_e_s_d_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_e_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_w_u_d"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_u_d"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_d"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_n_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_n"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n_s"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_s_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n_s_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_n_s"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_n_s_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_s_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_s_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_s"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_s_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_s_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_n_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_s_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_s_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_s"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_u_d"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_s_u_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_n_u_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_s_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_n_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_s_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_n"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_s"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_s_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_n_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_n"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_s"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_u_w"
+      },
+      "when": {
+        "down": "false",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_e_u"
+      },
+      "when": {
+        "down": "false",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "false",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_u_w"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "true"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_e_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "true",
+		"south": "false",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_n_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "false",
+		"up": "true",
+		"north": "true",
+		"west": "false"
+      }
+    },
+	{
+      "apply": {
+        "model": "minecraft:block/glass_blue/glass_d_s_u"
+      },
+      "when": {
+        "down": "true",
+		"east": "false",
+		"south": "true",
+		"up": "true",
+		"north": "false",
+		"west": "false"
+      }
+    }
+  ]
+}
