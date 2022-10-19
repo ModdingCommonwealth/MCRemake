@@ -1,0 +1,7 @@
+{
+  "parent": "mcremake:block/nether_wart_model",
+  "textures": {
+    "nether_wart_1": "minecraft:block/nether_wart_block",
+	"nether_wart_2": "minecraft:block/crimson_roots"
+  }
+}

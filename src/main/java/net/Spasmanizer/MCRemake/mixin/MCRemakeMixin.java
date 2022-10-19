@@ -10,6 +10,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class MCRemakeMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		MCRemakeMod.LOGGER.info("This is Minecraft!? No this is MCRemake!");
+		MCRemakeMod.LOGGER.info("This is Minecraft!? No, this is MCRemake!");
 	}
 }

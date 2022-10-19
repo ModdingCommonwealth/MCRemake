@@ -9,5 +9,6 @@ public class MCRemakeMod implements ClientModInitializer {
 
 	@Override
 	public void onInitializeClient() {
+
 	}
 }
